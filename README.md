@@ -66,10 +66,10 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/AnanyaCP/Smart-Traffic-Control-System.git
 ```
 
-Replace `YOUR_REPOSITORY_URL` with the URL of this repository.
+Replace `https://github.com/AnanyaCP/Smart-Traffic-Control-System.git` with the URL of this repository.
 
 ### 2. Create the Database
 
